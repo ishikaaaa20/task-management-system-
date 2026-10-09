@@ -1,0 +1,14 @@
+we are going to make a todo app which basically performs login, logout, update etc
+so while making this app :
+firstly we are going to define the features that our app performs 
+secondly we form the structure of the application
+and database setup which is literally the main thing in any application
+and we'll define models
+then routes are formed
+models are used to represent the table in the flask 
+
+give user a fetaure that they can login or register by their own on the website.
+add a delete button for whatever task we we want to delete.
+in our project badges are basically used for changing the status. 
+with app.app_context() : it tells us which app you are running currently
+db.create_all(): look at models like task i have and make it's table exist in database and id it not exist then crete a table.
